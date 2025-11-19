@@ -8,14 +8,12 @@ Repository ini berisi rangkaian tugas, praktikum, dan dokumentasi untuk mata kul
 - Final Project (Tugas Akhir)
 
 ## Struktur Folder
-/Minggu-XX
-   ├── src
-   │    ├── latihan.c
-   │    ├── tugas.c
-   │    └── ...
-   ├── laporan
-   │    └── Laporan-Praktikum-Minggu-XX.pdf
-   └── README.md
+- Minggu-XX
+  - src
+    - file.c
+  - laproran
+    - Laporan.pdf
+  - README.md
 
 ## Cara Menjalankan
 Contoh untuk C:
