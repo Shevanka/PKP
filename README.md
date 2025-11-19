@@ -16,3 +16,22 @@ Repository ini berisi rangkaian tugas, praktikum, dan dokumentasi untuk mata kul
    ├── laporan
    │    └── Laporan-Praktikum-Minggu-XX.pdf
    └── README.md
+
+## Cara Menjalankan
+Contoh untuk C:
+gcc nama-program.c -o program
+./program
+
+Jika berbeda teknologi, sesuaikan pada README tiap minggu.
+
+## Tools yang Digunakan
+- Bahasa: C
+- Editor: VS Code
+- Sistem Operasi: Windows
+- Compiler: GCC
+
+## Identitas
+Nama Mahasiswa : Shevanka Bagus Dwiyudi Kurniawan
+NIM : 3125600044
+Program Studi Sarjana Terapan Teknik Informatika  
+Politeknik Elektronika Negeri Surabaya
