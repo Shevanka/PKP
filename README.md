@@ -17,10 +17,8 @@ Repository ini berisi rangkaian tugas, praktikum, dan dokumentasi untuk mata kul
 
 ## Cara Menjalankan
 Contoh untuk C:
-gcc nama-program.c -o program
-./program
 
-Jika berbeda teknologi, sesuaikan pada README tiap minggu.
+gcc nama-program.c -o program
 
 ## Tools yang Digunakan
 - Bahasa: C
@@ -30,6 +28,9 @@ Jika berbeda teknologi, sesuaikan pada README tiap minggu.
 
 ## Identitas
 Nama Mahasiswa : Shevanka Bagus Dwiyudi Kurniawan
+
 NIM : 3125600044
+
 Program Studi Sarjana Terapan Teknik Informatika  
+
 Politeknik Elektronika Negeri Surabaya
